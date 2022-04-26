@@ -1,4 +1,4 @@
-![Github Banner](https://i.imgur.com/8QQSXvI.png)
+![Github Banner](https://imgur.com/pvvVSVg.png)
 
 <h3 align="center">A curious Medicine graduate turning software developer.</h3>
 
