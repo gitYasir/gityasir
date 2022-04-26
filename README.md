@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yasir</h1>
+![Github Banner](https://i.imgur.com/8QQSXvI.png)
+
 <h3 align="center">A curious Medicine graduate turning software developer.</h3>
 
 
