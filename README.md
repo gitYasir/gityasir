@@ -1,9 +1,9 @@
 ![Github Banner](https://imgur.com/pvvVSVg.png)
 
-<h3 align="center">A curious Medicine graduate turning software developer.</h3>
+<h3 align="center">A Software Developer with a keen interest in Cloud Engineering.</h3>
 
 
-- 🔭 I’m currently working on **Several personal side projects including an F1 drivers website and a scheduling app for my wife who teaches online.**
+- 🔭 I’m currently working on obtaining my **AZ-900** Certification.
 
 - ⚡ Fun fact **I studies abroad in China and lived there for 6 years.**
 
